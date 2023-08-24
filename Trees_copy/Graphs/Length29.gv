@@ -1,0 +1,27 @@
+digraph _29_ {
+	graph [bb="0,0,552.18,143.61"];
+	node [label="\N"];
+	subgraph _29__cyclotrimethylenetrinitramine11111111111111111111111111111 {
+		cyclotrimethylenetrinitramine_	[height=0.5,
+			label=cyclotrimethylenetrinitramine,
+			pos="116.43,18",
+			width=3.2342];
+	}
+	subgraph _29__cyclotrimethylenetrinitramine32322112222211223222111111111 {
+		trinitrophenylmethylnitramine_	[height=0.5,
+			label=trinitrophenylmethylnitramine,
+			pos="368.43,18",
+			width=3.262];
+	}
+	_29__cyclotrimethylenetrinitramine	[height=0.77585,
+		label="cyclotrimethylenetrinitramine
+1.0",
+		pos="242.43,115.68",
+		width=3.4373];
+	_29__cyclotrimethylenetrinitramine -> cyclotrimethylenetrinitramine_	[label=11111111111111111111111111111,
+		lp="248.31,61.875",
+		pos="e,125.03,36.22 182.34,90.9 171.15,84.955 160.05,77.902 150.68,69.75 142.88,62.955 136.05,53.989 130.6,45.485"];
+	_29__cyclotrimethylenetrinitramine -> trinitrophenylmethylnitramine_	[label=32322112222211223222111111111,
+		lp="454.31,61.875",
+		pos="e,364.41,36.396 313.81,92.464 325.71,86.466 337.18,78.993 346.43,69.75 352.83,63.356 357.5,54.794 360.85,46.527"];
+}

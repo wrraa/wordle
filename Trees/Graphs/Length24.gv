@@ -1,0 +1,117 @@
+digraph _24_ {
+	graph [bb="0,0,2657.4,143.61"];
+	node [label="\N"];
+	subgraph _24__diphenylaminechlorarsine111111111111111111111111 {
+		diphenylaminechlorarsine_	[height=0.5,
+			label=diphenylaminechlorarsine,
+			pos="103.96,18",
+			width=2.8877];
+	}
+	subgraph _24__diphenylaminechlorarsine232223222233232222232331 {
+		formaldehydesulphoxylate_	[height=0.5,
+			label=formaldehydesulphoxylate,
+			pos="771.96,18",
+			width=2.9986];
+	}
+	subgraph _24__diphenylaminechlorarsine113222322222233331232133 {
+		disestablishmentarianism_	[height=0.5,
+			label=disestablishmentarianism,
+			pos="327.96,18",
+			width=2.8323];
+	}
+	subgraph _24__diphenylaminechlorarsine222223221323223222223333 {
+		electrocardiographically_	[height=0.5,
+			label=electrocardiographically,
+			pos="546.96,18",
+			width=2.7491];
+	}
+	subgraph _24__diphenylaminechlorarsine323212222233223322323132 {
+		magnetothermoelectricity_	[height=0.5,
+			label=magnetothermoelectricity,
+			pos="1001,18",
+			width=2.8738];
+	}
+	subgraph _24__diphenylaminechlorarsine322222322323322223332233 {
+		scientificophilosophical_	[height=0.5,
+			label=scientificophilosophical,
+			pos="2110,18",
+			width=2.7214];
+	}
+	subgraph _24__diphenylaminechlorarsine222223231233322322223131 {
+		thyroparathyroidectomize_	[height=0.5,
+			label=thyroparathyroidectomize,
+			pos="2552,18",
+			width=2.9293];
+	}
+	subgraph _24__diphenylaminechlorarsine222222322322232222233332 {
+		tetraiodophenolphthalein_	[height=0.5,
+			label=tetraiodophenolphthalein,
+			pos="2327,18",
+			width=2.8184];
+	}
+	subgraph _24__diphenylaminechlorarsine322133222323322213232333 {
+		pathologicopsychological_	[height=0.5,
+			label=pathologicopsychological,
+			pos="1446,18",
+			width=2.9432];
+	}
+	subgraph _24__diphenylaminechlorarsine222322322321223322231223 {
+		pseudointernationalistic_	[height=0.5,
+			label=pseudointernationalistic,
+			pos="1897,18",
+			width=2.7075];
+	}
+	subgraph _24__diphenylaminechlorarsine222322333332233322321133 {
+		preobtrudingpreobtrusion_	[height=0.5,
+			label=preobtrudingpreobtrusion,
+			pos="1676,18",
+			width=2.9432];
+	}
+	subgraph _24__diphenylaminechlorarsine312223222223223222323332 {
+		microelectrophoretically_	[height=0.5,
+			label=microelectrophoretically,
+			pos="1222,18",
+			width=2.7768];
+	}
+	_24__diphenylaminechlorarsine	[height=0.77585,
+		label="diphenylaminechlorarsine
+3.58",
+		pos="1334,115.68",
+		width=3.069];
+	_24__diphenylaminechlorarsine -> diphenylaminechlorarsine_	[label=111111111111111111111111,
+		lp="323.96,61.875",
+		pos="e,139.37,35.389 1223.3,114.44 984.6,113.23 427.98,106.41 242.96,69.75 210.67,63.352 175.88,50.645 149.18,39.547"];
+	_24__diphenylaminechlorarsine -> disestablishmentarianism_	[label=113222322222233331232133,
+		lp="541.96,61.875",
+		pos="e,362.06,35.422 1223.5,113.29 1022.2,110.04 603.32,99.793 460.96,69.75 430.35,63.292 397.5,50.815 372.11,39.849"];
+	_24__diphenylaminechlorarsine -> electrocardiographically_	[label=222223221323223222223333,
+		lp="758.96,61.875",
+		pos="e,580.83,35.383 1224.7,111.17 1065.8,105.4 778.94,92.225 677.96,69.75 647.93,63.067 615.69,50.651 590.71,39.773"];
+	_24__diphenylaminechlorarsine -> formaldehydesulphoxylate_	[label=232223222233232222232331,
+		lp="966.96,61.875",
+		pos="e,801.95,35.534 1223.6,113.35 1131.8,109.94 998.53,99.624 885.96,69.75 860.29,62.938 833.06,51.013 811.66,40.434"];
+	_24__diphenylaminechlorarsine -> magnetothermoelectricity_	[label=323212222233223322323132,
+		lp="1163,61.875",
+		pos="e,1022.8,35.911 1230.7,105.33 1184.1,98.835 1129.1,87.939 1082,69.75 1064.1,62.877 1046,51.924 1031.4,41.95"];
+	_24__diphenylaminechlorarsine -> microelectrophoretically_	[label=312223222223223222323332,
+		lp="1343,61.875",
+		pos="e,1233.3,36.23 1288.8,89.875 1279.5,83.85 1270.1,77.026 1262,69.75 1253.9,62.493 1246.2,53.455 1239.7,45.026"];
+	_24__diphenylaminechlorarsine -> pathologicopsychological_	[label=322133222323322213232333,
+		lp="1516,61.875",
+		pos="e,1441.8,36.228 1394.1,92.045 1405,86.005 1415.5,78.624 1424,69.75 1430.2,63.182 1434.8,54.574 1438.2,46.318"];
+	_24__diphenylaminechlorarsine -> preobtrudingpreobtrusion_	[label=222322333332233322321133,
+		lp="1711,61.875",
+		pos="e,1656,36.022 1439.8,107.37 1490,101.28 1550,90.147 1601,69.75 1617.4,63.151 1634,52.497 1647.3,42.651"];
+	_24__diphenylaminechlorarsine -> pseudointernationalistic_	[label=222322322321223322231223,
+		lp="1915,61.875",
+		pos="e,1870.6,35.627 1441.5,108.79 1556.8,101.68 1731.7,88.303 1796,69.75 1818.8,63.163 1842.5,51.475 1861.3,40.976"];
+	_24__diphenylaminechlorarsine -> scientificophilosophical_	[label=322222322323322223332233,
+		lp="2125,61.875",
+		pos="e,2081.6,35.589 1443.8,112.1 1605.1,107.5 1897.9,95.786 2000,69.75 2025,63.36 2051.3,51.41 2072,40.711"];
+	_24__diphenylaminechlorarsine -> tetraiodophenolphthalein_	[label=222222322322232222233332,
+		lp="2338,61.875",
+		pos="e,2297.2,35.464 1444.5,113.91 1646.6,111.69 2067.7,103.09 2210,69.75 2236.9,63.44 2265.4,51.21 2287.5,40.338"];
+	_24__diphenylaminechlorarsine -> thyroparathyroidectomize_	[label=222223231233322322223131,
+		lp="2554,61.875",
+		pos="e,2519,35.532 1444.5,114.77 1682.9,114.22 2238.7,108.63 2423,69.75 2452.8,63.459 2484.6,50.985 2509.2,39.978"];
+}
