@@ -1,8 +1,0 @@
-digraph _31_ {
-	graph [bb="0,0,255.82,36"];
-	node [label="\N"];
-	dichlorodiphenyltrichloroethane_	[height=0.5,
-		label=dichlorodiphenyltrichloroethane,
-		pos="127.91,18",
-		width=3.553];
-}
